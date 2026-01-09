@@ -14,7 +14,7 @@ A modern, zero-cost e-commerce platform enabling merchants to sell products onli
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/onelrian/fits.git
 cd fits
 ```
 
